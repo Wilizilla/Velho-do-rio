@@ -1,5 +1,6 @@
 
 # teste de comentário
+# teste de comentário
 """
 Teste de comentário
 Mais de uma linha de comnetário
