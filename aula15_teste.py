@@ -9,8 +9,6 @@ if var_name and var_age :
     print('Sua idade é:', var_age, 'anos')
     print()
 
-    # teste
-
     if ' ' in var_name:
         print('Seu nome CONTÉM espaços')
 
