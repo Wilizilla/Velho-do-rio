@@ -1,4 +1,4 @@
-#teste git
+#teste git 2
 var_name = input('Digite o seu nome: ')
 var_age = input('Digite a sua idade: ')
 if var_name and var_age :
