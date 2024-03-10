@@ -9,3 +9,4 @@ if var_num.isdigit():
 
 else:
     print('Isso não é um número')
+    # teste
